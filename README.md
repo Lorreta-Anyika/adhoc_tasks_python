@@ -15,12 +15,12 @@ The tasks demonstrate understanding of **Python data types, control flow, except
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Lorreta-Anyika/adhock_tasks_mayor_engineering.git
+git clone https://github.com/Lorreta-Anyika/adhock_tasks_python.git
 ```
 
 ### 2. Navigate into the project directory
 ```bash
-cd adhock_tasks_mayor_engineering
+cd adhock_tasks_python
 ```
 
 ### 3. Run the Python scripts
