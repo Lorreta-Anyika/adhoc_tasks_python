@@ -1,6 +1,16 @@
-# ADHOC Python Task – Data Filtering & JSON Processing
+# Lightweight ETL Job
+_This project displays my skills in building lightweight ETL pipelines using Python, implementing data validation rules, handling data quality issues, and exporting clean datasets for downstream use._
 
-## Overview
+## Introduction
+
+You are part of the data engineering team at DataBridge Solutions Ltd.
+The company receives raw data from different sources, but much of it is messy and inconsistent.
+
+You have been asked to build a simple rule-based data processing system that can clean, validate, and filter this data before it is used for analysis.
+This will help ensure that only high-quality data is passed to the analytics team for decision-making.
+
+---
+## Tasks
 This repository contains Python scripts written to solve a set of adhoc tasks involving:
 
 - Data type checking and filtering in Python lists  
@@ -29,7 +39,13 @@ Make sure Python is installed, then run the scripts individually:
 python script_name.py
 ```
 
-## PART 1 – Python List Processing
+## Data Sourcing
+The dataset used in this project was extracted from the League of Legends Data Dragon API.
+
+Source URL : https://ddragon.leagueoflegends.com/cdn/14.3.1/data/en_US/champion.json
+
+## Problem Statement
+### Part 1 – Python List Processing
 
 ### 1. Filtering Strings with Specific Patterns
 
